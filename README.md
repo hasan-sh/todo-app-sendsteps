@@ -26,7 +26,7 @@ This is a full-stack interactive To-Do List application where users can add, edi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/hasan-sh/todo-app-sendsteps.git
    cd todo-app
    ```
 2. Install dependencies for both the server and client:
